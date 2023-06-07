@@ -1,4 +1,4 @@
-React.js web app to manually get GitHub push data using GitHub API, then display everything on the page.
+React.js web app to manually get GitHub push/commit data using GitHub API, then display everything on the page.
 
 # Getting Started with Create React App
 
