@@ -1,3 +1,5 @@
+React.js web app to manually get GitHub push data using GitHub API, then display everything on the page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
